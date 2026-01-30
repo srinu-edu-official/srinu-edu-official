@@ -1,7 +1,14 @@
 <!-- AI FUTURE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=200&section=header&text=V%20Srinivasulu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:2C5364&height=250&section=header&text=SRINIVASULU&fontSize=45&fontColor=00F0FF&animation=twinkling&fontAlignY=38"/>
 </p>
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/external-ai-artificial-intelligence-flaticons-lineal-color-flat-icons.png"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Srinivasulu</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Explorer | 🚀 Building Smart Solutions</h3>
@@ -27,6 +34,13 @@
 🚀 Focused on Full Stack + AI Systems  
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00F0FF?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%7C%20ML-Enthusiast-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-🔥-8A2BE2?style=for-the-badge"/>
+</p>
+
 
 ## 🛠 TECH STACK
 
@@ -50,34 +64,48 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
-### 🩺 Pneumonia Detection System
-✔ Transfer Learning with ResNet-50  
-✔ Accuracy improved **88% → 96%**  
-✔ Python, Deep Learning  
-
-### 🛒 E-Commerce Website  
-✔ Search, filter, orders, offers  
-✔ Authentication + Payment Integration  
-✔ React.js + JavaScript  
-
-### 🌦 Weather Forecast App  
-✔ Real-time + 10-day data  
-✔ Interactive graphs  
-✔ 25% performance optimization  
+### 🩺 Pneumonia Detection System (AI/ML)
+🔹 Built using **ResNet-50 & Transfer Learning**  
+🔹 Improved model performance from **88% → 96% accuracy**  
+🔹 Data preprocessing, augmentation & fine-tuning  
+🔹 Tech: Python, Deep Learning, Google Colab  
 
 ---
 
-## 💼 EXPERIENCE
-
-**Java Full Stack Intern — KodNest**  
-Spring Boot | React | MySQL  
-
-**Full Stack Intern — Codtech IT Solutions**  
-Built Weather + E-Commerce apps  
+### 🛒 E-Commerce Website
+🔹 Full-stack shopping platform  
+🔹 Search, filter, orders, offers, authentication  
+🔹 Secure payment integration  
+🔹 Tech: React.js, JavaScript, HTML, CSS  
 
 ---
+
+### 🌦 Weather Forecasting Website
+🔹 Real-time + 10-day weather data  
+🔹 Interactive temperature graphs  
+🔹 Optimized performance (25% faster)  
+🔹 Tech: JavaScript, OpenWeatherMap API  
+
+---
+
+## 💼 Experience
+
+👨‍💻 **Java Full Stack Developer Intern – KodNest**  
+Worked on scalable web applications using Spring Boot, React.js, MySQL.
+
+👨‍💻 **Full Stack Web Development Intern – Codtech IT Solutions**  
+Built weather & e-commerce web apps, improved performance by 40%.
+
+---
+## 🧠 Currently Working On
+
+🔹 Building Full Stack Applications  
+🔹 Learning Advanced Spring Boot  
+🔹 Exploring AI + Real-world ML Systems  
+🔹 Improving System Design Skills  
+
 
 ## 📜 CERTIFICATIONS
 ✔ Full Stack Development  
@@ -89,8 +117,8 @@ Built Weather + E-Commerce apps
 ## 📊 GITHUB STATS (NEON THEME)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinu-edu-official&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinu-edu-official&theme=tokyonight&hide_border=true&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srinu-edu-official&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinu-edu-official&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,10 +131,11 @@ Built Weather + E-Commerce apps
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌍 Connect With Me
 
-📧 srinivasuluvilson@gmail.com  
-🔗 Add LinkedIn link here  
+📧 Email: srinivasuluvilson@gmail.com  
+🔗 LinkedIn: [Add Your Link]  
+💻 GitHub: You're already here 😎 
 
 ---
 
