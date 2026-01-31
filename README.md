@@ -131,6 +131,6 @@ Built weather & e-commerce web apps, improved performance by 40%.
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
-<p align="center">💻 Thanks for scrolling — code never stops here.</p>
+<p align="center">💻 Thanks for scrolling — code never stops here...</p>
 
 
