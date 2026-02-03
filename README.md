@@ -125,7 +125,7 @@ Built weather & e-commerce web apps, improved performance by 40%.
 📧 Email: srinivasuluvilson@gmail.com  
 🔗 LinkedIn: [[Link]](https://www.linkedin.com/in/srinivasulu-v-srinu/)<br>
 📞 +91 63029 27845<br>
-💻 GitHub: You're already here 😎 
+💻 GitHub: You're already here.. 😎 
 
 ---
 <p align="center">
