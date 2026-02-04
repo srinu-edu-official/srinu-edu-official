@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🩺 Pneumonia Detection System (AI/ML)
 🔹 Built using **ResNet-50 & Transfer Learning**  
